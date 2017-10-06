@@ -1,4 +1,5 @@
 # TBD-2014
+![Year](https://img.shields.io/badge/year-2014-blue.svg) ![Last class](https://img.shields.io/badge/last_class-2014.04.11-green.svg) ![Language](https://img.shields.io/badge/language-SQL-yellow.svg) ![IDE](https://img.shields.io/badge/IDE-SQL_Server-orange.svg)
 
 Simple repository for the querys written in the classes of "Tecnologia e Linguagem de Banco de Dados", in SQL, using SQL Server.
 
